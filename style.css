@@ -1,0 +1,423 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 90%;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 45px;
+}
+
+.logo{
+    width: 20%;
+    float: left;
+}
+
+.menu{
+    float: right;
+    width: 50%;
+}
+
+.menu ul{
+
+list-style: none;
+
+overflow: hidden;
+
+float: right;
+}
+.menu ul li{
+
+float: left;
+
+/* overflow: hidden; */
+
+margin-left: 50px;
+}
+.menu ul li a{
+    
+text-decoration: none;
+    
+color: black;
+    
+text-transform: uppercase;
+}
+
+.banner{
+    width: 90%;
+    margin: auto;
+    margin-top: 35px;
+}
+
+.banner img{
+width: 100%;
+}
+
+.photodairy{
+
+    width: 80%;
+    
+    margin: auto;
+    
+    margin-top: 70px;
+    }
+    
+    .photodairy h5{
+    
+    color: gray;
+    }
+    
+    .photodairy h1{
+    
+    margin-top: 35px;
+    
+    color: #47525d;
+    }
+    
+    .photodairy p{
+    
+    color: grey;
+    
+    margin-top: 35px;
+    
+    margin-bottom: 35px;
+    }
+    
+    .photodairy a{
+        
+    /* margin-top: 35px; */
+        
+    color: #47525d;
+    }
+
+    .lifestyle{
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+        margin-top: 90px;
+    }
+
+    .post1{
+
+width: 45%;
+
+float: left;
+
+ovrrflow: hidden;
+
+}
+
+    .post2{
+
+width: 45%;
+
+float: right;
+
+}
+
+    .post1 img{
+
+width: 100%;
+
+}
+
+    .post1 h5{
+
+margin-top: 35px;
+
+color: #47525d;
+
+}
+
+    .post1 h1{
+
+margin-top: 35px;
+
+}
+
+    .post1 p{
+
+margin-top: 25px;
+
+color: #47525d;
+
+}
+
+    .post2 img{
+
+width: 100%;
+
+}
+
+    .post2 h5{
+
+margin-top: 35px;
+
+color: #47525d;
+
+}
+
+    .post2 h1{
+
+margin-top: 35px;
+
+}
+
+    .post2 p{
+        
+margin-top: 25px;
+        
+color: #47525d;
+    }
+
+    .lifestyle2{
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+        margin-top: 90px;
+    }
+
+    .post3{
+
+width: 45%;
+
+float: left;
+
+ovrrflow: hidden;
+
+}
+
+    .post4{
+
+width: 45%;
+
+float: right;
+
+}
+
+    .post3 img{
+
+width: 100%;
+
+}
+
+    .post3 h5{
+
+margin-top: 35px;
+
+color: #47525d;
+
+}
+
+    .post3 h1{
+
+margin-top: 35px;
+
+}
+
+    .post3 p{
+
+margin-top: 25px;
+
+color: #47525d;
+
+}
+
+    .post4 img{
+
+width: 100%;
+
+}
+
+    .post4 h5{
+
+margin-top: 35px;
+
+color: #47525d;
+
+}
+
+    .post4 h1{
+
+margin-top: 35px;
+
+}
+
+    .post4 p{
+        
+margin-top: 25px;
+        
+color: #47525d;
+    }
+
+.newsletter{
+
+background-color: #f0f0f0;
+
+/* height: 240px; */
+
+padding: 120px;
+
+margin-top: 90px;
+}
+
+.news_content{
+    width: 39%;
+    margin: auto;
+}
+
+.news_content h1{
+
+color: #47525d;
+
+font-size: 35px;
+
+font-weight: 500;
+}
+
+.news_content input{
+
+border: 0;
+
+border-bottom: 1px solid black;
+
+margin-top: 35px;
+
+width: 100%;
+
+padding-bottom: 10px;
+
+background: transparent;
+}
+
+.lifestyle3{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 90px;
+}
+
+.post5{
+
+width: 45%;
+
+float: left;
+
+ovrrflow: hidden;
+
+}
+
+.post6{
+
+width: 45%;
+
+float: right;
+
+}
+
+.post5 img{
+
+width: 100%;
+
+}
+
+.post5 h5{
+
+margin-top: 35px;
+
+color: #47525d;
+
+}
+
+.post5 h1{
+
+margin-top: 35px;
+
+}
+
+.post5 p{
+
+margin-top: 25px;
+
+color: #47525d;
+
+}
+
+.post6 img{
+
+width: 100%;
+
+}
+
+.post6 h5{
+
+margin-top: 35px;
+
+color: #47525d;
+
+}
+
+.post6 h1{
+
+margin-top: 35px;
+
+}
+
+.post6 p{
+    
+margin-top: 25px;
+    
+color: #47525d;
+}
+
+.loadmore{
+
+    padding: 180px;
+    
+    text-align: center;
+    }
+    
+    .loadmore button{
+        
+    padding: 15px 30px;
+        
+    font-size: 17px;
+    }
+
+    .footer{
+
+    }
+
+    .footer_content{
+
+    }
+
+    .terms{
+
+    }
+
+    .terms ul{
+        
+    }
+
+    .terms ul li{
+        
+    }
+
+    .terms ul li a{
+        
+    }
+
+    .socialicon{
+        
+    }
+
+    .socialicon ul{
+        
+    }
+
+    .socialicon ul li{
+        
+    }
